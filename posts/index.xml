@@ -96,7 +96,7 @@ If one knows how to find, identify, and use this data, it can be invaluable to f
 </ul>
 <p>starting from the root which in this case is the overall set of OSINT branching to collective subsets all the way to a collection of tools of a particular set in the collection e.g usersearch.org for usernames , Exiftool for metadata , Cyberchef for Encoding/Decoding etc</p>
 <p>Below is the OSINT FRAMEWORK</p>
-<!-- raw HTML omitted -->
+<iframe src="https://osintframework.com" width="100%" height="800" style="border:none;"></iframe>
 <p>Google Hacking / Google Dorking</p>
 <ul>
 <li>can be defined as a  technique that uses advanced search operators in Google (or other search engines) to find information that is not easily accessible through standard, everyday search queries.</li>
