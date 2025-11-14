@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on hackks</title>
+    <link>https://Larrikin47.github.io/Hacck-blog/categories/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on hackks</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 15:00:00 +0300</lastBuildDate>
+    <atom:link href="https://Larrikin47.github.io/Hacck-blog/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to OSINT</title>
+      <link>https://Larrikin47.github.io/Hacck-blog/posts/introduction-to-osint/</link>
+      <pubDate>Tue, 11 Nov 2025 15:00:00 +0300</pubDate>
+      <guid>https://Larrikin47.github.io/Hacck-blog/posts/introduction-to-osint/</guid>
+      <description>&lt;p&gt;The Internet has become the largest repository of data in the history of humankind!&#xA;If one knows how to find, identify, and use this data, it can be invaluable to forensic investigations, the reconnaissance phase of hacking, and predicting critical events.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Ninety percent of intelligence comes from open sources. The other ten percent, the clandestine work, is just the more dramatic. The real intelligence hero is Sherlock Holmes, not James Bond.&amp;rdquo; Lt. General Samuel V. Wilson&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

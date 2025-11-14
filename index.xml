@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackks</title>
+    <link>https://Larrikin47.github.io/Hacck-blog/</link>
+    <description>Recent content on hackks</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 15:00:00 +0300</lastBuildDate>
+    <atom:link href="https://Larrikin47.github.io/Hacck-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to OSINT</title>
+      <link>https://Larrikin47.github.io/Hacck-blog/posts/introduction-to-osint/</link>
+      <pubDate>Tue, 11 Nov 2025 15:00:00 +0300</pubDate>
+      <guid>https://Larrikin47.github.io/Hacck-blog/posts/introduction-to-osint/</guid>
+      <description>&lt;p&gt;The Internet has become the largest repository of data in the history of humankind!&#xA;If one knows how to find, identify, and use this data, it can be invaluable to forensic investigations, the reconnaissance phase of hacking, and predicting critical events.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Ninety percent of intelligence comes from open sources. The other ten percent, the clandestine work, is just the more dramatic. The real intelligence hero is Sherlock Holmes, not James Bond.&amp;rdquo; Lt. General Samuel V. Wilson&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>There Is Always a First Time for Everything</title>
+      <link>https://Larrikin47.github.io/Hacck-blog/posts/there-is-always-a-first-time-for-everything/</link>
+      <pubDate>Fri, 31 Oct 2025 00:28:41 +0300</pubDate>
+      <guid>https://Larrikin47.github.io/Hacck-blog/posts/there-is-always-a-first-time-for-everything/</guid>
+      <description>&lt;p&gt;Hello World.&lt;/p&gt;&#xA;&lt;p&gt;My first time Interacting with a computer as told by Dad , I was so Young by then . I guess the fun was playing super Mario .&lt;/p&gt;&#xA;&lt;p&gt;Also my first line  passionately wanting to code was C , To C or not to C . The Old C pun.&lt;/p&gt;&#xA;&lt;p&gt;Well I have always been a lover of computers .&lt;/p&gt;&#xA;&lt;p&gt;My first Flag at a ctf was a steg flag in a zip given the password in base64.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://Larrikin47.github.io/Hacck-blog/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://Larrikin47.github.io/Hacck-blog/about/</guid>
+      <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/russross/blackfriday&#34;&gt;https://github.com/russross/blackfriday&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

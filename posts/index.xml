@@ -1,0 +1,158 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on hackks</title>
+        <link>https://Larrikin47.github.io/Hacck-blog/posts/</link>
+        <description>Recent content in Posts on hackks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>All Rights Reserved</copyright>
+        <lastBuildDate>Tue, 11 Nov 2025 15:00:00 +0300</lastBuildDate>
+        <atom:link href="https://Larrikin47.github.io/Hacck-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Introduction to OSINT</title>
+            <link>https://Larrikin47.github.io/Hacck-blog/posts/introduction-to-osint/</link>
+            <pubDate>Tue, 11 Nov 2025 15:00:00 +0300</pubDate>
+            
+            <guid>https://Larrikin47.github.io/Hacck-blog/posts/introduction-to-osint/</guid>
+            <description>&lt;p&gt;The Internet has become the largest repository of data in the history of humankind!
+If one knows how to find, identify, and use this data, it can be invaluable to forensic investigations, the reconnaissance phase of hacking, and predicting critical events.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Ninety percent of intelligence comes from open sources. The other ten percent, the clandestine work, is just the more dramatic. The real intelligence hero is Sherlock Holmes, not James Bond.&amp;rdquo; Lt. General Samuel V. Wilson&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>The Internet has become the largest repository of data in the history of humankind!
+If one knows how to find, identify, and use this data, it can be invaluable to forensic investigations, the reconnaissance phase of hacking, and predicting critical events.</p>
+<p>&ldquo;Ninety percent of intelligence comes from open sources. The other ten percent, the clandestine work, is just the more dramatic. The real intelligence hero is Sherlock Holmes, not James Bond.&rdquo; Lt. General Samuel V. Wilson</p>
+<p>What is OSINT?</p>
+<p>OSINT or Open Source Intelligence - can simply be defined as Intelligence / Information gathered from publicly available resources / sources</p>
+<p>Sources of OSINT</p>
+<p>Open Source Intelligence comes from publicly accessible sources — both online and offline.</p>
+<ol>
+<li>Media</li>
+</ol>
+<ul>
+<li>News outlets, TV, and online magazines.</li>
+</ul>
+<ol start="2">
+<li>Internet &amp; Web</li>
+</ol>
+<ul>
+<li>Websites, forums, blogs, and archived data.</li>
+</ul>
+<ol start="3">
+<li>Social Media</li>
+</ol>
+<ul>
+<li>Twitter (X), LinkedIn, Reddit, Instagram.</li>
+</ul>
+<ol start="4">
+<li>Government Data</li>
+</ol>
+<ul>
+<li>Public records, registries, FOIA releases.</li>
+</ul>
+<ol start="5">
+<li>Technical</li>
+</ol>
+<ul>
+<li>DNS, WHOIS, Shodan, Censys.</li>
+</ul>
+<ol start="6">
+<li>Academic</li>
+</ol>
+<ul>
+<li>Google Scholar, arXiv.</li>
+</ul>
+<ol start="7">
+<li>Geospatial</li>
+</ol>
+<ul>
+<li>Google Maps, Sentinel Hub, OpenStreetMap.</li>
+</ul>
+<ol start="8">
+<li>Dark Web</li>
+</ol>
+<ul>
+<li>Onion sites, leak forums, Ahmia search.</li>
+</ul>
+<p>OSINT is about connecting these pieces into actionable intelligence</p>
+<p>Why It Matters</p>
+<p>In a world driven by data, OSINT allows professionals to:</p>
+<ul>
+<li>Discover digital footprints</li>
+<li>Investigate threat actors</li>
+<li>Verify information authenticity</li>
+<li>Understand behavioral patterns online</li>
+</ul>
+<p>Common OSINT Tools Include</p>
+<p>Here are a few great tools to start exploring:</p>
+<ul>
+<li>Maltego – visual link analysis tool</li>
+<li>theHarvester – email and subdomain gathering</li>
+<li>Shodan – search engine for Internet-connected devices</li>
+<li>SpiderFoot – automation tool for OSINT collection</li>
+</ul>
+<p>The OSINT FRAMEWORK</p>
+<ul>
+<li>The OSINT Framework provides an organized collection of tools to carry out open-source Intelligence Gathering by different categories in a tree like structure</li>
+</ul>
+<p>starting from the root which in this case is the overall set of OSINT branching to collective subsets all the way to a collection of tools of a particular set in the collection e.g usersearch.org for usernames , Exiftool for metadata , Cyberchef for Encoding/Decoding etc</p>
+<p>Below is the OSINT FRAMEWORK</p>
+<!-- raw HTML omitted -->
+<p>Google Hacking / Google Dorking</p>
+<ul>
+<li>can be defined as a  technique that uses advanced search operators in Google (or other search engines) to find information that is not easily accessible through standard, everyday search queries.</li>
+</ul>
+<p>Essentially  it&rsquo;s about asking Google very specific, technical questions to reveal publicly indexed data that a website owner may have unintentionally exposed</p>
+<p>How Does it Work?
+It leverages special keywords, symbols, and commands (called Google Dorks or Search Operators) to filter search results and pinpoint specific types of data, pages, or files.</p>
+<p>Examples of Google Dorks include :</p>
+<p>site :</p>
+<ul>
+<li>Restricts the search to a specific website or domain.
+e.g site:nasa.gov filetype:pdf</li>
+</ul>
+<p>filetype:</p>
+<ul>
+<li>
+<p>Filters results to a specific file extension.
+e.g filetype:log intext:password</p>
+<p>inurl:
+-Searches for specific text within a page&rsquo;s URL.
+e.g inurl:admin login</p>
+</li>
+</ul>
+<p>intitle:
+-Finds pages with a specific word in the page title.
+e.g intitle:&ldquo;index of&rdquo; &ldquo;database&rdquo;
+Pages with &ldquo;index of&rdquo; and &ldquo;database&rdquo; in the title, often revealing open directories.</p>
+<p>intext:
+-Finds pages with specific text in the body of the page.<br>
+e.g intext:&ldquo;private key&rdquo;
+Pages containing the exact phrase &ldquo;private key&rdquo;.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>There Is Always a First Time for Everything</title>
+            <link>https://Larrikin47.github.io/Hacck-blog/posts/there-is-always-a-first-time-for-everything/</link>
+            <pubDate>Fri, 31 Oct 2025 00:28:41 +0300</pubDate>
+            
+            <guid>https://Larrikin47.github.io/Hacck-blog/posts/there-is-always-a-first-time-for-everything/</guid>
+            <description>&lt;p&gt;Hello World.&lt;/p&gt;
+&lt;p&gt;My first time Interacting with a computer as told by Dad , I was so Young by then . I guess the fun was playing super Mario .&lt;/p&gt;
+&lt;p&gt;Also my first line  passionately wanting to code was C , To C or not to C . The Old C pun.&lt;/p&gt;
+&lt;p&gt;Well I have always been a lover of computers .&lt;/p&gt;
+&lt;p&gt;My first Flag at a ctf was a steg flag in a zip given the password in base64.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Hello World.</p>
+<p>My first time Interacting with a computer as told by Dad , I was so Young by then . I guess the fun was playing super Mario .</p>
+<p>Also my first line  passionately wanting to code was C , To C or not to C . The Old C pun.</p>
+<p>Well I have always been a lover of computers .</p>
+<p>My first Flag at a ctf was a steg flag in a zip given the password in base64.</p>
+<p>&hellip; there&rsquo;s always a First time for Everything.</p>
+<p>Computer Enthusiast . Math Lover . and a Creative Lover.</p>
+<p>New at ctfs but lets see where the journey Leads.</p>
+<p>Stay Tuned &hellip;</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
